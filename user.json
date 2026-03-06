@@ -3,6 +3,10 @@
     {
       "device_id": "HWID_2",
       "expiry": "2025-10-10"
+    },
+    {
+      "device_id": "HWID_2",
+      "expiry": "2025-10-10"
     }
   ]
 }
