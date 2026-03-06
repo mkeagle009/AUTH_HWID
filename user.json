@@ -1,8 +1,12 @@
 {
   "devices": [
     {
-      "device_id": "BFEBFBFF000906EA-S2K3NX0M123456",
+      "device_id": "HWID_1",
       "expiry": "2026-12-31"
+    },
+    {
+      "device_id": "HWID_2",
+      "expiry": "2025-10-10"
     }
   ]
 }
